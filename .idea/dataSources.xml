@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:postgresql://ec2-176-34-222-188.eu-west-1.compute.amazonaws.com:5432/d6mgn1man4juqu</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="baza" uuid="75ecdc44-e462-4270-bb51-5daddc081278">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-176-34-222-188.eu-west-1.compute.amazonaws.com:5432/d6mgn1man4juqu</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
